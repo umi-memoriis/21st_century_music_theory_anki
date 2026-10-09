@@ -7,7 +7,9 @@ This project draws on *Music Theory for the 21st-Century Classroom* by Robert Hu
 
 ## Contents
 
-The deck covers music theory concepts drawn from multiple educational resources. Topics and coverage may evolve as new cards are added.
+The deck covers music theory concepts drawn from multiple educational resources. 
+Currently covers up to chapter 26 of  *Music Theory for the 21st-Century Classroom*
+Topics and coverage may evolve as new cards are added.
 
 ## Getting Started
 
